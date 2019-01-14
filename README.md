@@ -1,3 +1,4 @@
+Numpy版的RNN,LSTM，DNC
 # Differentiable Neural Computer in Numpy
 Implementation of Differentiable Neural Computer https://www.nature.com/articles/nature20101 as close as possible to the description in the paper. Task: char-level prediction. The repo also includes simple RNN (rnn-numpy.py) and LSTM (lstm-numpy.py). Some external data (ptb, wiki) needs to be downloaded separately.
 
